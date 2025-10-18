@@ -117,7 +117,7 @@ portfolio-website/
 
 5. **Access your site**
    ```
-   http://localhost/your-folder-name/
+   http://localhost/Newport/
    ```
 
 ### Production Deployment
@@ -145,12 +145,12 @@ portfolio-website/
 ### Personal Information
 Edit `config/config.php` to update:
 ```php
-define('SITE_NAME', 'Your Name - Portfolio');
-define('EMAIL_TO', 'your-email@domain.com');
-define('PHONE', '+234-XXX-XXX-XXXX');
+define('SITE_NAME', 'Eminent Portfolio ');
+define('EMAIL_TO', 'eminentemmylery@gmail.com');
+define('PHONE', '+234-905-9020-272);
 define('LOCATION', 'Lagos, Nigeria');
-define('GITHUB_URL', 'https://github.com/yourusername');
-define('LINKEDIN_URL', 'https://linkedin.com/in/yourprofile');
+define('GITHUB_URL', 'https://github.com/EminentEmmy');
+define('LINKEDIN_URL', 'https://www.linkedin.com/in/emmanuel-olawale-b3a830231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app');
 ```
 
 ### Adding Projects
@@ -160,7 +160,7 @@ Edit `data/projects.json`:
   "projects": [
     {
       "id": 1,
-      "title": "Your Project Name",
+      "title": "Portfolio",
       "description": "Project description",
       "technologies": ["PHP", "JavaScript", "CSS"],
       "categories": ["frontend", "backend"],
@@ -220,7 +220,7 @@ The contact form requires email configuration:
    ```php
    define('SMTP_HOST', 'smtp.gmail.com');
    define('SMTP_PORT', 587);
-   define('SMTP_USERNAME', 'your-email@gmail.com');
+   define('SMTP_USERNAME', 'eminentemmylery@gmail.com');
    define('SMTP_PASSWORD', 'your-app-password');
    ```
    Note: Use [Gmail App Password](https://support.google.com/accounts/answer/185833), not your regular password
