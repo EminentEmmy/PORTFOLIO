@@ -12,9 +12,9 @@ define('PHONE', '+234-905-9020-272'); // Update with your Nigerian number
 define('LOCATION', 'Lagos, Nigeria');
 
 // Social Media Links - Update with your actual profiles
-define('GITHUB_URL', 'https://github.com/yourusername');
-define('LINKEDIN_URL', 'https://linkedin.com/in/yourprofile');
-define('TWITTER_URL', 'https://twitter.com/yourusername');
+define('GITHUB_URL', 'https://github.com/EminentEmmy');
+define('LINKEDIN_URL', 'https://www.linkedin.com/in/emmanuel-olawale-b3a830231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app');
+define('TWITTER_URL', 'https://twitter.com/EminentEmmy6');
 
 // Email Configuration for Contact Form
 define('SMTP_HOST', 'smtp.gmail.com');
@@ -64,4 +64,5 @@ function isActivePage($page) {
     $currentScript = basename($_SERVER['SCRIPT_NAME'], '.php');
     return ($currentScript === $page) ? 'active' : '';
 }
+
 ?>
