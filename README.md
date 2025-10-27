@@ -295,9 +295,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 - Website: [your-portfolio-url.com](https://your-portfolio-url.com)
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@yourusername](https://github.com/EminentEmmy)
 - LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
+- Twitter: [@yourusername](https://twitter.com/eminentemmy6)
 
 ## 🌟 Acknowledgments
 
@@ -313,4 +313,4 @@ For support, email your-email@domain.com or open an issue in this repository.
 
 **⭐ If you find this project helpful, please consider giving it a star!**
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Eminent Ariyo
